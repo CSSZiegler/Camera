@@ -7,6 +7,13 @@
     <container type="form" id="frmCamOverlaid" displayname="Form"/>
     <container type="form" id="frmCamOverlay" displayname="Form"/>
     <container type="form" id="frmIntro" displayname="Form"/>
+    <container type="form" id="frmCamAccessMode" displayname="Form"/>
+    <container type="form" id="frmCamBasic" displayname="Form"/>
+    <container type="form" id="frmCamOptions" displayname="Form"/>
+    <container type="form" id="frmCamOrientation" displayname="Form"/>
+    <container type="form" id="frmCamOverlaid" displayname="Form"/>
+    <container type="form" id="frmCamOverlay" displayname="Form"/>
+    <container type="form" id="frmIntro" displayname="Form"/>
     <globalsequences/>
     <skins/>
 </application>

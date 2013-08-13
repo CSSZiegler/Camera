@@ -59,7 +59,7 @@
             <width>100</width>
             <height>100</height>
         </sizePercent>
-        <skinId>Skin Defaults</skinId>
+        <skinId>sknTrans</skinId>
         <focusSkinId>Skin Defaults</focusSkinId>
         <localeId>None</localeId>
         <visible>true</visible>
@@ -768,7 +768,7 @@
                 <width>100</width>
                 <height>11</height>
             </sizePercent>
-            <skinId>Skin Defaults</skinId>
+            <skinId>sknhbxWhiteSampleApp</skinId>
             <focusSkinId>hBoxWhite</focusSkinId>
             <localeId>None</localeId>
             <visible>true</visible>
