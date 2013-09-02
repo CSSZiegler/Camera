@@ -1,4 +1,4 @@
-SampleCameraWidget
+Camera
 ==================
 
 Application to showcase the Camera APIs
