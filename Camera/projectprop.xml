@@ -172,7 +172,7 @@
     <attributes name="RECEIVE_MMS" value="false"/>
     <attributes name="androidorientation" value="Both"/>
     <attributes name="WRITE_SYNC_SETTINGS" value="false"/>
-    <attributes name="WRITE_EXTERNAL_STORAGE" value="false"/>
+    <attributes name="WRITE_EXTERNAL_STORAGE" value="true"/>
     <attributes name="tcbb440basefontsize" value="15"/>
     <attributes name="win8descriptionkey" value="Sample Test Application"/>
     <attributes name="REORDER_TASKS" value="false"/>
