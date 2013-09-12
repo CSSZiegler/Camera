@@ -18,3 +18,10 @@ This Application will showcase the following features of the Camera APIs
 * Android
 * Android tablet
 
+**Mobile**
+ * Android
+ * iPhone
+
+**Tablet** 
+ * Anroid
+ * iPad
