@@ -3,7 +3,6 @@ Camera
 
 Application to showcase the Camera APIs
 
-Project Owner: Malla Nandikonda <Malla.Nandikonda@kony.com>
 
 # Purpose
 This Application will showcase the following features of the Camera APIs
@@ -14,5 +13,8 @@ This Application will showcase the following features of the Camera APIs
 * Specifying the orientation of the captured image
 
 # Supported platforms:
-iPhone, iPad, Android, Android tablet
+* iPhone
+* iPad
+* Android
+* Android tablet
 
