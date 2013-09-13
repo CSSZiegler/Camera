@@ -23,5 +23,5 @@ This Application will showcase the following features of the Camera APIs
  * iPhone
 
 **Tablet** 
- * Anroid
+ * Android
  * iPad
