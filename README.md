@@ -13,10 +13,6 @@ This Application will showcase the following features of the Camera APIs
 * Specifying the orientation of the captured image
 
 # Supported platforms:
-* iPhone
-* iPad
-* Android
-* Android tablet
 
 **Mobile**
  * Android
