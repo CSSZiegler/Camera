@@ -17,6 +17,7 @@ This Application will showcase the following features of the Camera APIs
 **Mobile**
  * Android
  * iPhone
+ * Windows 8 Phone
 
 **Tablet** 
  * Android
